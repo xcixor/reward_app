@@ -1,0 +1,2 @@
+# PURPOSE
+The purpose of this project is to create an app that rewards behavior. From psychology, if yoy want to reinforce a behavior, it is best to reward yourself every time you make effort towards it, so that the brain can find itself in a position to recommend the behavior in future (dopamine release cycles). Therefore, I want to create an app where a user can seek to achieve a behavior by setting a goal to achieve it and monitoring it daily by marking if the behavior has been achieved on a given day.
